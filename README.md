@@ -2,6 +2,9 @@
 
 A simple and elegant web application for generating QR codes from text or URLs.
 
+## Live Demo
+**Visit the live website**: [https://qr-generator-nk54.onrender.com](https://qr-generator-nk54.onrender.com)
+
 ## Features
 
 - Generate QR codes instantly from any text or URL
