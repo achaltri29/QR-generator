@@ -31,7 +31,3 @@ QR Generator/
 ├── script.js       # JavaScript functionality
 └── README.md       # Project documentation
 ```
-
-## Getting Started
-
-Simply open `index.html` in your web browser to start using the QR Code Generator.
